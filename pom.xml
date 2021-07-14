@@ -60,7 +60,7 @@
         <jacoco.coverage.instruction.minimum>0.98</jacoco.coverage.instruction.minimum>
         <jacoco.coverage.branch.minimum>0.96</jacoco.coverage.branch.minimum>
         <jacoco.coverage.complexity.minimum>0.97</jacoco.coverage.complexity.minimum>
-        <archunit-junit4.version>0.19.0</archunit-junit4.version>
+        <archunit-junit4.version>0.20.0</archunit-junit4.version>
         <maven-project-info-reports-plugin.version>3.1.2</maven-project-info-reports-plugin.version>
         <maven-site-plugin.version>3.9.1</maven-site-plugin.version>
         <maven-surefire-plugin.version>3.0.0-M5</maven-surefire-plugin.version>
